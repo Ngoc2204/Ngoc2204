@@ -1,6 +1,3 @@
-Dưới đây là mẫu `README.md` kiểu GitHub Profile/CV, đẹp hơn, gọn và chuyên nghiệp hơn:
-
-```md
 <div align="center">
 
 # Hi, I'm Ngoc
@@ -76,4 +73,3 @@ I'm a Full-stack developer passionate about creating practical digital products,
 ### Thanks for visiting my profile.
 
 </div>
-```
